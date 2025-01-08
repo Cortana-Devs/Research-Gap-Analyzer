@@ -27,6 +27,7 @@ The Research Gap Analyzer is a web-based tool designed to help researchers ident
 
 ## Technology Stack
 - **Frontend**: React.js with Vite
+- **Backend**: Python
 - **Styling**: Tailwind CSS + Custom CSS
 - **PDF Processing**: jsPDF
 - **State Management**: React Hooks
